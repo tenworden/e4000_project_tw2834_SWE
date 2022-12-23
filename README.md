@@ -5,7 +5,7 @@ E4000 Project: Predicting the SWE using Transformer and LSTM
 # Instructions 
 
 1. Each model implementation has its notebook. There are two models, thus two notebooks for Transformer and LSTM.
-2. The Main.ipynb notebook contains the overall implementation of two models. Thus all models are loaded in that notebook to plot the output and predicted output.
+2. The Main.ipynb notebook contains the summary of the implementation of two models. Please refer to the individual notebooks for detail. Thus all models are loaded in that notebook to plot the output and predicted output.
 3. Under the directory /best_models, you will find all the optimized model weights.
 4. Use the requirement.txt to install the package requirements. The file also contains the version of each package.
 
